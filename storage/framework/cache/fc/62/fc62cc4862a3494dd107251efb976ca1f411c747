@@ -1,0 +1,10 @@
+1608139408a:1:{s:8:"hero.htm";a:9:{s:8:"fileName";s:8:"hero.htm";s:7:"content";s:138:"title = "Hero"
+url = "/demo/hero"
+layout = "default"
+is_hidden = 0
+==
+<div class="container">
+    {% partial "hero-banner.htm" %}
+</div>";s:5:"mtime";i:1608129137;s:6:"markup";s:68:"<div class="container">
+    {% partial "hero-banner.htm" %}
+</div>";s:4:"code";N;s:5:"title";s:4:"Hero";s:3:"url";s:10:"/demo/hero";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
